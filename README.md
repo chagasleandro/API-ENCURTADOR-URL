@@ -26,7 +26,7 @@ Este é um projeto para fins de avaliação de conhecimento sobre como construir
 E tem mais no package.json do projeto.
 
   ## layout:
-    -Instalar [Node](https://nodejs.org/en/download/)
+    -Instalar [Node](https://nodejs.org/en/)
     -Clone o repositório: git clone git@github.com:chagasleandro/api-encurtador-url.git
     -Acesse o diretório do projeto: cd api-encurtador-url
     -Instale as dependências: npm install
